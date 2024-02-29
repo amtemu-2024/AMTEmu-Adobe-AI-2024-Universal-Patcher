@@ -18,7 +18,10 @@ Offline patching mode for when an internet connection is unavailable
 Seamlessly integrates with your existing Adobe software for maximum efficiency
 Security features to ensure the highest level of safety
 Ability to mark patched products so they are not patched again
+
+
 Supported Products:
+
 Adobe Acrobat DC 19.x (universal amtlib)
 Adobe After Effects CC 2019 – 2020 – 2021 – 2022 – 2023 - 2024
 Adobe Animate CC 2019 – 2020 – 2021 – 2022 – 2023 - 2024
