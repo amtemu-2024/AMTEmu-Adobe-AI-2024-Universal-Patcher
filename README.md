@@ -23,7 +23,7 @@ Ability to mark patched products so they are not patched again
 
 3. Now Extract AMTEmu-2024-Universal-Patcher.rar
 
-3- RAR Password = AMTEmu
+ 3- RAR Password = AMTEmu
 
 4. Run AMTEmu-2024-Universal-Patcher.exe
 
