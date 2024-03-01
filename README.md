@@ -19,6 +19,16 @@ Seamlessly integrates with your existing Adobe software for maximum efficiency
 Security features to ensure the highest level of safety
 Ability to mark patched products so they are not patched again
 
+1. Turn Off the Internet & Antivirus
+
+3. Now Extract AMTEmu-2024-Universal-Patcher.rar
+
+3- RAR Password = AMTEmu
+
+4. Run AMTEmu-2024-Universal-Patcher.exe
+
+5. Done!
+
 
 Supported Products:
 
